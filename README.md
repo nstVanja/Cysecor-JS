@@ -2,7 +2,7 @@
 ## ⚡️ JavaScript Course by Cysecor
 
 
-![Logo](https://github.com/cysecor/chrome-ekstenzija/blob/main/images/cysecor_logo.png?raw=true&height=100)
+![Logo](https://github.com/nstVanja/Cysecor-JS/blob/main/img/cysecor_logo.png?raw=true)
 
 
 ## Assignments
