@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kalkulator inflacije</title>
+	<link rel="stylesheet" href="style/main.css">
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Abel&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="background-overlay">
+
+		<h1>Kalkulator inflacije</h1>
+
+		<div class="container">
+			<h3>Stopa inflacije: 
+				<input required type="number" min="0.1" id="inflationRate" name="inflationRate"> %</h3> <br>
+			<h3>Izračunaj koliko će <input required type="number" min="0.1" id="money" name="money"> € da vredi za 
+				<input type="number" required min="1" id="years" name="years"> godina?</h3>
+
+			<button onclick="inflationCalculator()">Izračunaj</button>
+		</div>
+
+	</div>
+
+	<script src="js/script.js"></script>
+</body>
+</html>
