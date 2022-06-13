@@ -9,7 +9,7 @@
 
  - [Projekat: Kalkulator inflacije](https://rawcdn.githack.com/nstVanja/Cysecor-JS/931682a7243d85a7169239693e21e492124619cf/Kalkulator%20inflacije/index.html)
  - [Domaći: To Do List](https://rawcdn.githack.com/nstVanja/Cysecor-JS/518b0f0c38201e6b23227e4315b62d67e06de084/ToDoList/index.html)
- - [Projekat: Pijaca Shopping Cart]()
+ - [Projekat: Pijaca Shopping Cart](https://rawcdn.githack.com/nstVanja/Cysecor-JS/dc2db552b13158ea75e80e38f014c1c02fb93e5b/pijaca-shopping-cart/index.html)
  - [Domaći: Filmovi ili pozorište – Shopping Cart ]()
 
 
