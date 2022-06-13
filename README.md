@@ -1,5 +1,5 @@
 
-## ⚡️ JavaScript Course by Cysecor
+## ⭐ JavaScript Course by Cysecor ⭐
 
 
 ![Logo](https://github.com/nstVanja/Cysecor-JS/blob/main/img/cysecor_logo.png?raw=true)
