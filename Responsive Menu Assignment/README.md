@@ -1,1 +1,2 @@
-"# responsive-menu-slider-portfolio-modal Domaći zadatak" 
+## Assignments
+ - #4 Domaći zadatak: responsive-menu-slider-portfolio-modal
