@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Meni Slider Portfolio</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+
+	<div class="header">
+
+
+		<button id="mobileMenu">MENU</button>
+
+		<ul>
+			<li><a href="#">Početna</a></li>
+			<li><a href="#">O nama</a></li>
+			<li><a href="#">Usluge</a></li>
+			<li><a href="#">Galerija</a></li>
+			<li><a href="#">Kontakt</a></li>
+		</ul>
+
+		<img src="img/logo.png">
+
+	</div>
+
+	<h2>Galerija</h2>
+
+	<div class="slider-wrapper">
+		<button id="left-btn"><i class="arrow"></i></button>
+		<div class="slider-images">
+			<img src="img/slide1.jpg">
+			<img src="img/slide2.jpg">
+			<img src="img/slide3.jpg">
+			<img src="img/slide4.jpg">
+			<img src="img/slide5.jpg">
+			<img src="img/slide6.jpg">
+			<img src="img/slide7.jpg">
+
+		</div>
+		<button id="right-btn"><i class="arrow"></i></button>
+	</div>
+
+	<h2>Portfolio</h2>
+
+	<div class="portfolio-wrapper">
+		<div class="portfolio-categories">
+			<button data-category='sve' onclick="portfolioSort(this)" class="categories silver">Sve</button>
+			<button data-category='restorani' class="categories brown">Restorani</button>
+			<button data-category='picerije' class="categories orange">Picerije</button>
+			<button data-category='hoteli' class="categories blue">Hoteli</button>
+			<button data-category='spa' class="categories light-green">Spa</button>
+			<button data-category='korporacije' class="categories green">Korporacije</button>
+			<button data-category='ostalo' class="categories rose">Ostalo</button>
+		</div>
+
+		<div class="portfolio-items">
+			<div class="portfolio-single-item blue" data-category='hoteli'>
+				<h3>Hotel 1</h3>
+			</div>
+
+			<div class="portfolio-single-item rose" data-category='ostalo'>
+				<h3>Startup</h3>
+			</div>
+
+			<div class="portfolio-single-item light-green" data-category='spa'>
+				<h3>Spa 1</h3>
+			</div>
+
+			<div class="portfolio-single-item orange" data-category='picerije'>
+				<h3>Picerija 1</h3>
+			</div>
+
+			<div class="portfolio-single-item blue" data-category='restorani, hoteli'>
+				<h3>Hotel & Restoran</h3>
+			</div>
+
+			<div class="portfolio-single-item orange" data-category='picerije'>
+				<h3>Picerija 2</h3>
+			</div>
+
+			<div class="portfolio-single-item green" data-category='korporacije'>
+				<h3>Korporacija 1</h3>
+			</div>
+
+			<div class="portfolio-single-item brown" data-category='restorani'>
+				<h3>Restoran 1</h3>
+			</div>
+
+			<div class="portfolio-single-item light-green" data-category='spa'>
+				<h3>Spa 2</h3>
+			</div>
+
+			<div class="portfolio-single-item blue" data-category='hoteli, spa'>
+				<h3>Hotel & Spa</h3>
+			</div>
+
+			<div class="portfolio-single-item rose" data-category='ostalo'>
+				<h3>XYZ Orgranizacija</h3>
+			</div>
+
+			<div class="portfolio-single-item brown" data-category='restorani'>
+				<h3>Restoran 2</h3>
+			</div>
+
+			<div class="portfolio-single-item orange" data-category='picerije'>
+				<h3>Picerija 3</h3>
+			</div>
+
+			<div class="portfolio-single-item blue" data-category='hoteli'>
+				<h3>Hotel 2</h3>
+			</div>
+
+			<div class="portfolio-single-item green" data-category='korporacije'>
+				<h3>Korporacija 2</h3>
+			</div>
+
+			<div class="portfolio-single-item blue" data-category='hoteli'>
+				<h3>Hotel 3</h3>
+			</div>
+
+			<div class="portfolio-single-item brown" data-category='restorani'>
+				<h3>Restoran 3</h3>
+			</div>
+
+			<div class="portfolio-single-item blue" data-category='hoteli'>
+				<h3>Hotel 4</h3>
+			</div>
+
+			<div class="portfolio-single-item light-green" data-category='spa'>
+				<h3>Spa 3</h3>
+			</div>
+
+			<div class="portfolio-single-item blue" data-category='hoteli, restorani, spa'>
+				<h3>Hotel & Restoran & Spa</h3>
+			</div>
+
+			<div class="portfolio-single-item brown" data-category='restorani'>
+				<h3>Restoran 4</h3>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="modal-section">
+		<button id="openModalPrvi">Modal Button1</button>
+		<button id="openModalDrugi">Modal Button2</button>
+	</div>
+
+
+	<div class="popup-modal">
+		<button id="closeModal">x</button>
+
+		<h4 id="txtTitle"><br><br></h4>
+		<div id="txtModal"></div>
+	</div>
+
+
+	<div class="overlay"></div>
+
+	<script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>
