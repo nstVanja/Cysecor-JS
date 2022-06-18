@@ -1,4 +1,4 @@
-## Responsive Menu Assignment
+### Responsive Menu Assignment
 
-### Assignments
+#### Assignments
  - #4 Domaći zadatak: responsive-menu-slider-portfolio-modal
