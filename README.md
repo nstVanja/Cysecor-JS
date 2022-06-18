@@ -14,8 +14,14 @@
  - [#3 Projekat: Sviranje bubnjeva](https://rawcdn.githack.com/nstVanja/Cysecor-JS/50b6171156e0d8d391f0e83b5c366347b765d376/Bubnjevi/index.html)
  - [#4 Projekat: Responsive Menu Image Slider Portfolio Filter  Popup Modal](https://rawcdn.githack.com/nstVanja/Cysecor-JS/2065a6704e3b8a6cf85203cc5ea683ca41c5ba9a/Responsive%20Menu%20Class/index.html)
  - [#4 Domaći: Responsive Menu Image Slider Portfolio Filter  Popup Modal](https://rawcdn.githack.com/nstVanja/Cysecor-JS/13c34b24f441285d2d22597921a77d342e50f834/Responsive%20Menu%20Assignment/index.html)
+ - #5 Projekat: Kako napraviti ANIMACIJE na sajtu
+ - #5 Domaći: ANIMACIJE na sajtu
+ - #6 Projekat: Validacija forme za registraciju korisnika
+ - #6 Domaći: Validacija forme za registraciju korisnika
  - [#7 Domaći: Pravimo Google Chrome Ekstenziju](https://github.com/nstVanja/Cysecor-JS/tree/main/Vanja%20Google)
- - [#9b Šta je i kako radi AJAX / API / JSON / ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/fed41254fdac3f814d5880b2747e0c146f69259b/Kako%20radi%20AJAX%20%20API%20%20JSON/index.html)
+ - #8 Projekat: Object Oriented Programiranje u Javascriptu
+ - #8 Domaći: Object Oriented Programiranje u Javascriptu
+ - [#9 Šta je i kako radi AJAX / API / JSON / ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/fed41254fdac3f814d5880b2747e0c146f69259b/Kako%20radi%20AJAX%20%20API%20%20JSON/index.html)
 
 
 ![App Screenshot](https://i.y.at/🚀?padding=0&transparent=1&height=250)
