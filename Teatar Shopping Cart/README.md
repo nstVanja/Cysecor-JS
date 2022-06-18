@@ -1,4 +1,4 @@
-## JS #2 - Pravimo Shopping Cart  DOM manipulacija  Stringovi
+### JS #2 - Pravimo Shopping Cart  DOM manipulacija  Stringovi
 
-### Assignment
+#### Assignment
 - Filmovi/Pozorište Shopping Cart
