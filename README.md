@@ -1,5 +1,5 @@
 
-## ⭐ JavaScript Course by Cysecor ⭐
+## ⭐ JavaScript Course by [Cysecor](https://www.youtube.com/playlist?list=PL_CImUqaeU3-2JHKoeosP0ASl6rFnb3Pf) ⭐   
 
 
 ![Logo](https://github.com/nstVanja/Cysecor-JS/blob/main/img/cysecor_logo.png?raw=true)
@@ -13,8 +13,8 @@
  - [#2 Domaći: Filmovi/pozorište Shopping Cart](https://rawcdn.githack.com/nstVanja/Cysecor-JS/03cbf91e6d6f5dc976b8820b565ca85b853729b3/Teatar%20Shopping%20Cart/index.html)
  - [#3 Projekat: Sviranje bubnjeva](https://rawcdn.githack.com/nstVanja/Cysecor-JS/50b6171156e0d8d391f0e83b5c366347b765d376/Bubnjevi/index.html)
  - [#4 Projekat: Responsive Menu Image Slider Portfolio Filter  Popup Modal](https://rawcdn.githack.com/nstVanja/Cysecor-JS/2065a6704e3b8a6cf85203cc5ea683ca41c5ba9a/Responsive%20Menu%20Class/index.html)
- - [#4 Domaći: Responsive Menu Image Slider Portfolio Filter  Popup Modal](https://rawcdn.githack.com/nstVanja/Cysecor-JS/13c34b24f441285d2d22597921a77d342e50f834/Responsive%20Menu%20Assignment/index.html)
- - #5 Projekat: Kako napraviti ANIMACIJE na sajtu
+ - [#4 Domaći: Responsive Menu Image Slider Portfolio Filter  Popup Modal](https://rawcdn.githack.com/nstVanja/Cysecor-JS/838c3404889a7a89bb137b7a029afd4987fe12e4/Responsive%20Menu%20Assignment/index.html)
+ - [#5 Projekat: Kako napraviti ANIMACIJE na sajtu](https://rawcdn.githack.com/nstVanja/Cysecor-JS/3b92550861489b637e791a92d699ebc545c90c02/Animacije%20Class/index.html)
  - #5 Domaći: ANIMACIJE na sajtu
  - #6 Projekat: Validacija forme za registraciju korisnika
  - #6 Domaći: Validacija forme za registraciju korisnika
