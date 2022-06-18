@@ -16,7 +16,7 @@
  - [#4 Domaći: Responsive Menu Image Slider Portfolio Filter  Popup Modal](https://rawcdn.githack.com/nstVanja/Cysecor-JS/838c3404889a7a89bb137b7a029afd4987fe12e4/Responsive%20Menu%20Assignment/index.html)
  - [#5 Projekat: Kako napraviti ANIMACIJE na sajtu](https://rawcdn.githack.com/nstVanja/Cysecor-JS/3b92550861489b637e791a92d699ebc545c90c02/Animacije%20Class/index.html)
  - #5 Domaći: ANIMACIJE na sajtu
- - #6 Projekat: Validacija forme za registraciju korisnika
+ - [#6 Projekat: Validacija forme za registraciju korisnika](https://rawcdn.githack.com/nstVanja/Cysecor-JS/cea5c90c803a0058cdf818afb546e0b14df2d813/Validacija%20forme/index.html)
  - #6 Domaći: Validacija forme za registraciju korisnika
  - [#7 Domaći: Pravimo Google Chrome Ekstenziju](https://github.com/nstVanja/Cysecor-JS/tree/main/Vanja%20Google)
  - #8 Projekat: Object Oriented Programiranje u Javascriptu
