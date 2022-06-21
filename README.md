@@ -21,7 +21,9 @@
  - [#7 Domaći: Pravimo Google Chrome Ekstenziju](https://github.com/nstVanja/Cysecor-JS/tree/main/Vanja%20Google)
  - #8 Projekat: Object Oriented Programiranje u Javascriptu
  - #8 Domaći: Object Oriented Programiranje u Javascriptu
- - [#9 Projekat: Šta je i kako radi AJAX / API / JSON / ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/703ca389514a5614d0f807fb05f867f0fe3f7004/Kako%20radi%20AJAX%20%20API%20%20JSON/index.html)
+ - #9 Šta su Web Cookies i kako rade?
+ - [#10 Projekat: Šta je i kako radi AJAX / API / JSON / ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/703ca389514a5614d0f807fb05f867f0fe3f7004/Kako%20radi%20AJAX%20%20API%20%20JSON/index.html)
+ - #11 Pravimo DRUŠTVENU MREŽU od nule! (HTML, CSS & JavaScript)
 
 
 ![App Screenshot](https://i.y.at/🚀?padding=0&transparent=1&height=250)
