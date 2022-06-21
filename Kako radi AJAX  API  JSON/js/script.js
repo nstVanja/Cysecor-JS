@@ -6,7 +6,7 @@ document.querySelector('#fetchBtn').addEventListener('click', e => {
   let id = document.querySelector('#userID').value;
   console.log(id);
 
-  let rqst = fetch('https://62a6efa397b6156bff8300bc.mockapi.io/Users/' + id).then(response => response.json()).then(data => {
+  let rqst = fetch('https://62a6efa397b6156bff8300bc.mockapi.io/users/' + id).then(response => response.json()).then(data => {
     console.log(data);
 
     let podaci = document.querySelector('#podaci');
