@@ -19,7 +19,7 @@
  - [#6 Projekat: Validacija forme za registraciju korisnika](https://rawcdn.githack.com/nstVanja/Cysecor-JS/cea5c90c803a0058cdf818afb546e0b14df2d813/Validacija%20forme/index.html)
  - #6 Domaći: Validacija forme za registraciju korisnika
  - [#7 Domaći: Pravimo Google Chrome Ekstenziju](https://github.com/nstVanja/Cysecor-JS/tree/main/Vanja%20Google)
- - #8 Projekat: Object Oriented Programiranje u Javascriptu
+ - [#8 Projekat: Object Oriented Programiranje u Javascriptu](https://rawcdn.githack.com/nstVanja/Cysecor-JS/9dffb67bbd75ce79cece3e9d8d61aa9470c9f577/OOP%20Validacija%20forme/index.html)
  - #8 Domaći: Object Oriented Programiranje u Javascriptu
  - #9 Šta su Web Cookies i kako rade?
  - [#10 Projekat: Šta je i kako radi AJAX / API / JSON / ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/703ca389514a5614d0f807fb05f867f0fe3f7004/Kako%20radi%20AJAX%20%20API%20%20JSON/index.html)
