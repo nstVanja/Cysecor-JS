@@ -24,6 +24,7 @@
  - #9 Šta su Web Cookies i kako rade?
  - [#10 Projekat: Šta je i kako radi AJAX / API / JSON / ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/703ca389514a5614d0f807fb05f867f0fe3f7004/Kako%20radi%20AJAX%20%20API%20%20JSON/index.html)
  - #11 Pravimo DRUŠTVENU MREŽU od nule! (HTML, CSS & JavaScript)
+ - [#12 INTERAKTIVNI CHART za prikaz podataka](https://rawcdn.githack.com/nstVanja/Cysecor-JS/9305ee7643d6e850e19dfc6daf515ab94cb481e9/Interaktivni%20Chart%20Class/index.html)
 
 
 ![App Screenshot](https://i.y.at/🚀?padding=0&transparent=1&height=250)
