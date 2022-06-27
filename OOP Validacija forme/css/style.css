@@ -54,12 +54,12 @@ form div button {
   cursor: grab;
   border: 0;
   border-radius: 4px;
-	background-color: peachpuff;
+  background-color: peachpuff;
 }
 
 form div button:hover {
   background-color: indigo;
-	color: white;
+  color: white;
 }
 
 form ul {
@@ -69,4 +69,8 @@ form ul {
 form ul li {
   color: crimson;
   font-weight: 400;
+  background-color: beige;
+  margin-top: 2px;
+  padding: 4px 0 4px 10px;
+  border: 1px crimson solid;
 }
