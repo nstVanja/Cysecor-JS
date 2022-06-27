@@ -52,7 +52,7 @@ class Validator {
         }
 
         if(fieldValue.length < elFields[fieldName].minlength || fieldValue.length > elFields[fieldName].maxlength) {
-            this.errors[fieldName].push(`Polje mora imati minimalno ${elFields[fieldName].minlength}, a maksimalno ${elFields[fieldName].maxlength} karaktera`);
+            this.errors[fieldName].push(`Polje ne može imati manje od ${elFields[fieldName].minlength}, niti više od ${elFields[fieldName].maxlength} karaktera`);
         }
 
         if (elFields[fieldName].matching) {
