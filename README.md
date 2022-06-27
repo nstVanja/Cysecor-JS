@@ -24,7 +24,7 @@
  - [#9 Šta su Web Cookies i kako rade?](https://rawcdn.githack.com/nstVanja/Cysecor-JS/68b241f053ba173ac4edcc26999f1b448be17652/Web%20Cookies/index.html)
  - [#10 Projekat: Šta je i kako radi AJAX / API / JSON / ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/703ca389514a5614d0f807fb05f867f0fe3f7004/Kako%20radi%20AJAX%20%20API%20%20JSON/index.html)
  - #11 Pravimo DRUŠTVENU MREŽU od nule! (HTML, CSS & JavaScript)
- - [#12 INTERAKTIVNI CHART za prikaz podataka](https://rawcdn.githack.com/nstVanja/Cysecor-JS/9305ee7643d6e850e19dfc6daf515ab94cb481e9/Interaktivni%20Chart%20Class/index.html)
+ - [#12 INTERAKTIVNI CHART za prikaz podataka](https://rawcdn.githack.com/nstVanja/Cysecor-JS/74bdc6cf9fa008919145479e8688a650bfa78e45/Interaktivni%20Chart%20Class/index.html)
 
 
 ![App Screenshot](https://github.com/nstVanja/Cysecor-JS/blob/d48df3e71dcd3512ef7ad481385c41117666af85/img/raketa.png)
