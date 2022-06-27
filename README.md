@@ -27,5 +27,5 @@
  - [#12 INTERAKTIVNI CHART za prikaz podataka](https://rawcdn.githack.com/nstVanja/Cysecor-JS/9305ee7643d6e850e19dfc6daf515ab94cb481e9/Interaktivni%20Chart%20Class/index.html)
 
 
-![App Screenshot](https://i.y.at/🚀?padding=0&transparent=1&height=250)
+![App Screenshot](https://github.com/nstVanja/Cysecor-JS/blob/d48df3e71dcd3512ef7ad481385c41117666af85/img/raketa.png)
 
