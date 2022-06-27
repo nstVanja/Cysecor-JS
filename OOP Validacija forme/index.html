@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>OOP Validacija Forme</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+
+	<form>
+		<h1>Registracija korisnika</h1>
+		<div>
+			<label for="ime_prezime">Ime i prezime: *</label>
+			<input id="ime_prezime" type="text" name="ime_prezime" placeholder="Niko Nikolic">
+		</div>
+		<div>
+			<label for="korisnicko_ime">Korisničko ime: *</label>
+			<input id="korisnicko_ime" type="text" name="korisnicko_ime" placeholder="niko.nikolic1">
+		</div>
+		<div>
+			<label for="email">Email adresa: *</label>
+			<input id="email" type="text" name="email" placeholder="niko.nikolic@mail.com">
+		</div>
+		<div>
+			<label for="broj_telefona">Broj telefona:</label>
+			<input id="broj_telefona" type="text" name="broj_telefona" placeholder="+381 00 123 456">
+		</div>
+		<div>
+			<label for="lozinka">Lozinka: *</label>
+			<input id="lozinka" type="text" name="lozinka" placeholder="*******">
+		</div>
+		<div>
+			<label for="ponovi_lozinku">Ponovi lozinku: *</label>
+			<input id="ponovi_lozinku" type="text" name="ponovi_lozinku" placeholder="*******">
+		</div>
+		<div>
+			<button>Registruj se</button>
+		</div>
+	</form>
+
+	<script type="text/javascript" src="js/validator.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>
