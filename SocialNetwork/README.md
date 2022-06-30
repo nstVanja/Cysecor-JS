@@ -1,4 +1,4 @@
-### SocialNetwork Assignment
+### JS #11 - SocialNetwork 
 
-#### Assignments
- - #11 Domaći zadatak: Pravimo DRUŠTVENU MREŽU od nule! (HTML, CSS & JavaScript)
+# Assignment
+ - Domaći zadatak: Pravimo DRUŠTVENU MREŽU od nule! (HTML, CSS & JavaScript)
