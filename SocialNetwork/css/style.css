@@ -272,7 +272,7 @@ span#comment-name {
   background-repeat: no-repeat;
   background-position: 10px;
   background-color: transparent;
-  color: #eaeaea;
+  color: transparent;
   border: 0;
 }
 
