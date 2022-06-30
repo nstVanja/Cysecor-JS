@@ -1,4 +1,5 @@
-### ⭐ JavaScript Course by [Cysecor](https://www.youtube.com/playlist?list=PL_CImUqaeU3-2JHKoeosP0ASl6rFnb3Pf) ⭐   
+## JavaScript Course 
+##  ⭐ by   [Cysecor](https://www.youtube.com/playlist?list=PL_CImUqaeU3-2JHKoeosP0ASl6rFnb3Pf)    ⭐ 
 
 
 ![Logo](https://github.com/nstVanja/Cysecor-JS/blob/main/img/cysecor_logo.png?raw=true)
