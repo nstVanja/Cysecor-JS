@@ -290,6 +290,7 @@ span#comment-name {
 #allPostsWrapper .single-post .post-comments form button {
   width: 15%;
   background-color: #1C6872;
+  font-size: 0.8rem;
   color: white;
 }
 
