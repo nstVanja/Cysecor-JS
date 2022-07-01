@@ -283,12 +283,12 @@ span#comment-name {
 }
 
 #allPostsWrapper .single-post .post-comments form input {
-  width: 85%;
+  width: 80%;
   padding: 0 10px;
 }
 
 #allPostsWrapper .single-post .post-comments form button {
-  width: 15%;
+  width: 20%;
   background-color: #1C6872;
   font-size: 0.8rem;
   color: white;
