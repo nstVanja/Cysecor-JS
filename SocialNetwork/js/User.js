@@ -48,7 +48,8 @@ class User {
   edit() {
     let data = {
       username: this.username,
-      email: this.email
+      email: this.email,
+      password: this.password
     };
 
     data = JSON.stringify(data);
@@ -104,7 +105,9 @@ class User {
         let session = new Session();
         session.destroySession();
 
-        window.location.href = "/"
+        window.location.href = "index.html"
       });
   }
+
+
 }

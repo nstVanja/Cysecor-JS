@@ -16,6 +16,7 @@ document.querySelector('#closeModal').addEventListener('click', () => {
 let config = {
   'korisnicko_ime': {
     required: true,
+    username: true,
     minlength: 5,
     maxlength: 50
   },
@@ -30,26 +31,26 @@ let config = {
   'register_lozinka': {
     required: true,
     minlength: 7,
-    maxlength: 25
-    //matching: 'ponovi_lozinku'
+    maxlength: 25,
+    matching: 'ponovi_lozinku'
   },
 
   'ponovi_lozinku': {
     required: true,
-    //minlength: 7,
-    //maxlength: 25,
+    minlength: 7,
+    maxlength: 25,
     matching: 'register_lozinka'
   }
 };
 
 let validator = new Validator(config, '#registrationForm');
 
-console.log(validator.validationPassed());
-
 document.querySelector('#registrationForm').addEventListener('submit', e => {
   e.preventDefault();
 
   if (validator.validationPassed()) {
+
+    console.log(validator.validationPassed());
 
     let user = new User();
     user.username = document.querySelector('#korisnicko_ime').value;
@@ -57,11 +58,10 @@ document.querySelector('#registrationForm').addEventListener('submit', e => {
     user.password = document.querySelector('#lozinka').value;
     user.create();
 
-    console.log('6 app.js user create ');
-
   } else {
     alert('Polja nisu dobro popunjena');
   }
+
 });
 
 document.querySelector('#loginForm').addEventListener('submit', e => {
