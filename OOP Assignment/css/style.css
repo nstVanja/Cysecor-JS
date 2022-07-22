@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+  overflow-y: scroll;
+}
+
+body {
+  padding: 0 50px 50px 50px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #fff;
+  line-height: 1.6;
+  word-break: break-word;
+  background: var(--theme);
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+
+.back {
+  width: 620px;
+  height: 800px;
+  position: absolute;
+  background-color: #3AB4F2;
+  /*background-color: white;*/
+  opacity: 0.2;
+  z-index: -5;
+}
+
+div.container {
+  max-width: 790px;
+  padding-bottom: 20px;
+}
+
+form {
+  width: 600px;
+  margin: 10px;
+  padding: 20px;
+}
+
+form div {
+  padding: 15px 0;
+}
+
+form div label {
+  display: block;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+form div input {
+  height: 50px;
+  width: 100%;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 0 10px;
+  background-color: white;
+  border: none;
+  outline: none;
+}
+
+form div button {
+  padding: 10px 30px;
+  margin-top: 30px;
+  font-size: 18px;
+  background-color: #fff;
+  color: #000;
+  border: none;
+}
+
+form ul {
+  list-style: none;
+}
+
+form ul li {
+  color: red;
+  font-size: 16px;
+}
+
+.main {
+  position: relative;
+  max-width: max-content;
+  margin: auto;
+  padding: 1rem 5rem 5rem 5rem;
+}
+
+.entry-content {
+  margin: 8px 0;
+  color: var(--secondary);
+  font-size: 14px;
+  line-height: 1.6;
+  overflow: hidden;
+}
+
+article, footer, main, section {
+  display: block;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+.dark {
+  /*  --theme: #1d1e20;*/
+  --theme: #0c172c;
+  --entry: #2e2e33;
+  --primary: rgba(255, 255, 255, 0.84);
+  --content: rgba(255, 255, 255, 0.74);
+  --border: #333;
+}
+
+footer {
+  display: flex;
+  font-size: 0.9rem;
+  font-weight: 200;
+  align-items: center;
+  justify-content: center;
+}
+
+.particles-js-canvas-el {
+  width: 842px;
+  height: 759px;
+}
