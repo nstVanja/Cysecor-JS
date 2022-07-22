@@ -17,10 +17,9 @@
  - [#5 Projekat: Kako napraviti ANIMACIJE na sajtu](https://rawcdn.githack.com/nstVanja/Cysecor-JS/3b92550861489b637e791a92d699ebc545c90c02/Animacije%20Class/index.html)
  - [#5 Domaći: ANIMACIJE na sajtu](https://rawcdn.githack.com/nstVanja/Cysecor-JS/ea56de8a10ac026ccb4ed590cf9b537e831b19ab/Animacije%20Assignment/index.html#section05)
  - [#6 Projekat: Validacija forme za registraciju korisnika](https://rawcdn.githack.com/nstVanja/Cysecor-JS/cea5c90c803a0058cdf818afb546e0b14df2d813/Validacija%20forme/index.html)
- - #6 Domaći: Validacija forme za registraciju korisnika
  - [#7 Domaći: Pravimo Google Chrome Ekstenziju](https://github.com/nstVanja/Cysecor-JS/tree/main/Vanja%20Google)
  - [#8 Projekat: Object Oriented Programiranje u Javascriptu](https://rawcdn.githack.com/nstVanja/Cysecor-JS/9dffb67bbd75ce79cece3e9d8d61aa9470c9f577/OOP%20Validacija%20forme/index.html)
- - #8 Domaći: Object Oriented Programiranje u Javascriptu
+ - [#8 Domaći: OOP - Validacija  forme za registraciju korisnika](https://rawcdn.githack.com/nstVanja/Cysecor-JS/ed31b7626704ddd66bea79e14e0e807bd6774d3b/OOP%20Assignment/index.html)
  - [#9 Šta su Web Cookies i kako rade?](https://rawcdn.githack.com/nstVanja/Cysecor-JS/68b241f053ba173ac4edcc26999f1b448be17652/Web%20Cookies/index.html)
  - [#10 Projekat: Šta je i kako radi AJAX / API / JSON / ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/703ca389514a5614d0f807fb05f867f0fe3f7004/Kako%20radi%20AJAX%20%20API%20%20JSON/index.html)
  - [#10 Domaći: ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/108a1c258b036514fdb1d1c026c4e86583969f8c/Async%20JS/index.html)
