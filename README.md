@@ -25,7 +25,7 @@
  - [#10 Domaći: ASYNCHRONOUS JS](https://rawcdn.githack.com/nstVanja/Cysecor-JS/108a1c258b036514fdb1d1c026c4e86583969f8c/Async%20JS/index.html)
  - [#11 Domaći: Pravimo DRUŠTVENU MREŽU od nule! (HTML, CSS & JavaScript)](https://hexa-social-network.netlify.app)
  - [#12 Projekat: INTERAKTIVNI CHART za prikaz podataka](https://rawcdn.githack.com/nstVanja/Cysecor-JS/74bdc6cf9fa008919145479e8688a650bfa78e45/Interaktivni%20Chart%20Class/index.html)
- - #12 Domaći: INTERAKTIVNI CHART za prikaz podataka
+ - [#12 Domaći: INTERAKTIVNI CHART za prikaz podataka](https://rawcdn.githack.com/nstVanja/Cysecor-JS/8de3d4b9c05f637c9b5aab232381607b941bfc16/Interactive%20Chart%20Assignment/index.html)
 
 
 ![App Screenshot](https://github.com/nstVanja/Cysecor-JS/blob/d48df3e71dcd3512ef7ad481385c41117666af85/img/raketa.png)
