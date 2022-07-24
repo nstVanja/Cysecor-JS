@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <title>Assignment Chart JS</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="assets/bootstrap/bootstrap4-alpha3.min.css">
+  <!-- Google Font Roboto -->
+  <link rel="stylesheet" href="assets/fonts/font-roboto.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <!-- Scripts -->
+  <script src="assets/jquery/jquery-3.1.0.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/bootstrap4-alpha3.min.js"></script>
+  <script src="assets/script/canvasjs.min.js"></script>
+  <script src="assets/jquery.inview/jquery.inview.min.js"></script>
+
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+
+  <div class="container">
+    <div>
+      <a href="index.html">
+        <img class="back" src="img/back-button.png" alt="Povratak na prethodnu stranu">
+      </a>
+    </div>
+
+    <h1>YouTube Chanel Cysecor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>Traffic from 22.05.2022 to 08.06.2022</span></h1>
+
+    <hr class="m-t-2">
+
+    <!-- Novi vs Povratni pregledi line chart -->
+    <h3 class="title">Novi vs Povratni pregledi</h3>
+
+    <div class="row">
+      <div class="col-lg-3 col-md-4">
+        <div class="inview" id="users-doughnut-chart"></div>
+      </div>
+
+      <div class="col-lg-9 col-md-8">
+        <div class="inview" id="users-spline-chart"></div>
+      </div>
+    </div>
+
+    <!-- Novi vs Povratni pregledi line chart -->
+
+    <hr>
+
+    <h3 class="title">Korisnici po zemljama</h3>
+
+    <!-- Korisnici po zemljama bar chart -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="inview" id="users-countries-bar-chart"></div>
+      </div>
+    </div>
+    <!-- Korisnici po zemljama bar chart -->
+
+    <hr>
+
+    <!-- Korisnici po godinama doughnutchart -->
+    <h3 class="title">Korisnici po godinama</h3>
+    <div class="row">
+      <div class="col-md-2">
+        <h4 class="align-center">3 - 17</h4>
+        <div class="inview" id="doughnut-chart-01"></div>
+      </div>
+
+      <div class="col-md-2">
+        <h4 class="align-center">18 - 24</h4>
+        <div class="inview" id="doughnut-chart-02"></div>
+      </div>
+
+      <div class="col-md-2">
+        <h4 class="align-center">25 - 34</h4>
+        <div class="inview" id="doughnut-chart-03"></div>
+      </div>
+
+      <div class="col-md-2">
+        <h4 class="align-center">35 - 44</h4>
+        <div class="inview" id="doughnut-chart-04"></div>
+      </div>
+
+      <div class="col-md-2">
+        <h4 class="align-center">45 - 54</h4>
+        <div class="inview" id="doughnut-chart-05"></div>
+      </div>
+
+      <div class="col-md-2">
+        <h4 class="align-center">55 - 64</h4>
+        <div class="inview" id="doughnut-chart-06"></div>
+      </div>
+    </div>
+    <!-- Korisnici po godinama doughnutchart -->
+
+    <hr>
+
+    <div class="footer"></div>
+
+  </div>
+
+  <script src="assets/script/script.js" charset="utf-8"></script>
+
+</body>
+
+</html>
