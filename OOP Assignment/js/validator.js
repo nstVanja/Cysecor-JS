@@ -55,17 +55,6 @@ class Validator {
       }
     }
 
-    if (elFields[fieldName].email) {
-
-      console.log(this.errors);
-
-      if (!this.validateEmail(fieldValue)) {
-        this.errors[fieldName].push('Neispravna email adresa');
-
-        console.log(this.errors);
-      }
-    }
-
     if (fieldValue.length < elFields[fieldName].minlength || fieldValue.length > elFields[fieldName].maxlength) {
       this.errors[fieldName].push(`Polje mora imati minimalno ${elFields[fieldName].minlength}, a maksimalno ${elFields[fieldName].maxlength} karaktera`);
     }
